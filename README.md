@@ -250,7 +250,7 @@ print(colorama.Fore.BLUE + "Even more colored text")
 3. Выводит дату через 7 дней от текущего момента.
 
 **Задание 4. Многомодульная текстовая игра.**
-Ссылки на документации: [colorama](https://pypi.org/project/colorama/), <br><br>
+Ссылки на документации: [colorama](https://pypi.org/project/colorama/), [time](https://docs.python.org/3/library/time.html), [random](https://docs.python.org/3/library/random.html#).<br><br>
 Напишите программу, которая генерирует случайное число от 0 до 10, и игрок должен угадать его. После каждой попытки программа сообщает, больше или меньше введённое число по сравнению с загаданным. При успешной попытке программа выводит поздравление и количество неверных попыток. <br><br>
 Условия:
 
@@ -267,3 +267,5 @@ print(colorama.Fore.BLUE + "Even more colored text")
 
 Входные/выходные данные: <br>
 ![image](https://github.com/user-attachments/assets/c7597d26-29ef-4cd3-8811-6026e6d9997f)
+
+На скриншоте загаданное число показано чисто для примера.
